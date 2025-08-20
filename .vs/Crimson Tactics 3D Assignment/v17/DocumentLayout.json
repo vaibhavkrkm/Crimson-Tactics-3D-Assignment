@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|p:\\black march studios\\crimson tactics 3d assignment\\crimson tactics 3d assignment\\assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\cubeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RaycastManager.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\RaycastManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaycastManager.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\RaycastManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaycastManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:43:28.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridGenerator.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\GridGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridGenerator.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\GridGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:53:53.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CubeInfo.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\CubeInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeInfo.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\CubeInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:41:14.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
