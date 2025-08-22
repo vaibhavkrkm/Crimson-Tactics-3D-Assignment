@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class GridGenerator : MonoBehaviour
+public class GridManager : MonoBehaviour
 {
     public GameObject cubePrefab;    // loading cube prefab using the inspector in Unity
     public Color cubeColor1;

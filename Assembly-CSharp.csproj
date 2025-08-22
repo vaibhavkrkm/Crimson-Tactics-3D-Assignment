@@ -61,9 +61,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.36f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GridManager.cs" />
+    <Compile Include="Assets\Scripts\ObstacleData.cs" />
+    <Compile Include="Assets\Scripts\ObstacleManager.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\CubeInfo.cs" />
-    <Compile Include="Assets\Scripts\GridGenerator.cs" />
     <Compile Include="Assets\Scripts\RaycastManager.cs" />
   </ItemGroup>
   <ItemGroup>

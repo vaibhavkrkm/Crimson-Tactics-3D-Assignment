@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|p:\\black march studios\\crimson tactics 3d assignment\\crimson tactics 3d assignment\\assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|p:\\black march studios\\crimson tactics 3d assignment\\crimson tactics 3d assignment\\assets\\scripts\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ED4711-7EBC-D458-1DE5-AC2BC231EE28}|Assembly-CSharp-Editor.csproj|p:\\black march studios\\crimson tactics 3d assignment\\crimson tactics 3d assignment\\assets\\editor\\obstacleplacertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0ED4711-7EBC-D458-1DE5-AC2BC231EE28}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\obstacleplacertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\obstacledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\cubeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,31 +39,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RaycastManager.cs",
-              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\RaycastManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RaycastManager.cs",
-              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\RaycastManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RaycastManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "ObstacleManager.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\ObstacleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleManager.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\ObstacleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T08:43:28.021Z",
+              "WhenOpened": "2025-08-21T13:52:14.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ObstaclePlacerTool.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Editor\\ObstaclePlacerTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\ObstaclePlacerTool.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Editor\\ObstaclePlacerTool.cs",
+              "RelativeToolTip": "Assets\\Editor\\ObstaclePlacerTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T21:55:47.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObstacleData.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\ObstacleData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleData.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\ObstacleData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:54:50.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GridGenerator.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\GridGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GridGenerator.cs",
               "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\GridGenerator.cs",
               "RelativeToolTip": "Assets\\Scripts\\GridGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:53:53.943Z"
+              "WhenOpened": "2025-08-20T07:53:53.943Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CubeInfo.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\CubeInfo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CubeInfo.cs",
@@ -59,8 +97,19 @@
               "RelativeToolTip": "Assets\\Scripts\\CubeInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:41:14.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T07:41:14.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RaycastManager.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\RaycastManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaycastManager.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\RaycastManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaycastManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T11:45:55.932Z"
             }
           ]
         }
