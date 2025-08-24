@@ -10,7 +10,7 @@ public class ObstacleManager : MonoBehaviour
         if (obstacleData == null || obstaclePrefab == null) return;    // if any variable is missing data, return
 
         // iterating over the grid list
-        for (int i = 0; i < obstacleData.obstacleGrid.Count; i++)
+        for (int i = 1; i < obstacleData.obstacleGrid.Count; i++)
         {
             if (obstacleData.obstacleGrid[i] == true)    // it's an obstacle
             {

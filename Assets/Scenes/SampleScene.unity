@@ -531,6 +531,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 436676343}
   m_CullTransparentMesh: 1
+--- !u!1 &580454367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 580454368}
+  - component: {fileID: 580454369}
+  m_Layer: 0
+  m_Name: PlayerManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &580454368
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 580454367}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.27433047, y: -0.76093644, z: 2.1472876}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &580454369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 580454367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 463903f3da70adf4a98387134dd1489b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 9104755700806834532, guid: 91f28f9207364a0409fbc4d69bfc12e0, type: 3}
 --- !u!1 &763021030
 GameObject:
   m_ObjectHideFlags: 0
@@ -739,6 +784,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1650513511}
   - component: {fileID: 1650513510}
+  - component: {fileID: 1650513512}
   m_Layer: 0
   m_Name: GridManager
   m_TagString: Untagged
@@ -761,6 +807,10 @@ MonoBehaviour:
   cubePrefab: {fileID: 6191903981712277283, guid: 60c66b6b8bf022746a9175755662fc4f, type: 3}
   cubeColor1: {r: 1, g: 1, b: 1, a: 0}
   cubeColor2: {r: 0.3735848, g: 0.3735848, b: 0.3735848, a: 0}
+  gridWidth: 10
+  gridHeight: 10
+  nodeLength: 1
+  obstacleData: {fileID: 11400000, guid: 8ac1a8f5dae347649a5e466856bce806, type: 2}
 --- !u!4 &1650513511
 Transform:
   m_ObjectHideFlags: 0
@@ -776,6 +826,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1650513512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1650513509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2916fa92a23a6489cd788a856dc841, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gridManager: {fileID: 1650513510}
 --- !u!1 &1918987599
 GameObject:
   m_ObjectHideFlags: 0
@@ -970,3 +1033,4 @@ SceneRoots:
   - {fileID: 763021034}
   - {fileID: 306603604}
   - {fileID: 1918987600}
+  - {fileID: 580454368}
