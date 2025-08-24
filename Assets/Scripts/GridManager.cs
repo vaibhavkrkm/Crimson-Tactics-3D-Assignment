@@ -13,7 +13,7 @@ public class GridManager : MonoBehaviour
 
     public ObstacleData obstacleData;
 
-    private Node[,] grid;
+    public Node[,] grid;
 
     private void Awake()
     {
@@ -109,9 +109,9 @@ public class GridManager : MonoBehaviour
                 int checkX = node.gridX + x;
                 int checkZ = node.gridZ + z;
 
-                if (checkX >= 0 && checkX < gridWidth && checkZ >= 0 && checkZ < gridHeight)
+                if (checkX >= 0 && checkX < gridWidth && checkZ >= 0 && checkZ < gridHeight)    // if neighbors are out of bounds or not
                 {
-                    neighbours.Add(grid[checkX, checkZ]);
+                    neighbours.Add(grid[checkX, checkZ]);    // if within grid, add them in the list
                 }
             }
         }

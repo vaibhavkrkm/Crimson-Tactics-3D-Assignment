@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|p:\\black march studios\\crimson tactics 3d assignment\\crimson tactics 3d assignment\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\cubeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\obstacledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ED4711-7EBC-D458-1DE5-AC2BC231EE28}|Assembly-CSharp-Editor.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\editor\\obstacleplacertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0ED4711-7EBC-D458-1DE5-AC2BC231EE28}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\obstacleplacertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +35,20 @@
       "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|p:\\black march studios\\crimson tactics 3d assignment\\crimson tactics 3d assignment\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0ED4711-7EBC-D458-1DE5-AC2BC231EE28}|Assembly-CSharp-Editor.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\editor\\obstacleplacertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0ED4711-7EBC-D458-1DE5-AC2BC231EE28}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\obstacleplacertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\obstacledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\cubeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\assets\\scripts\\iai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAA1649-B3BB-46E9-C051-C886F8D9EEE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +58,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T05:30:57.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFwAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:26:05.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAI.cs",
+              "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\IAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IAI.cs",
+              "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\IAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:18:35.803Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,26 +106,26 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T12:15:50.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Pathfinding.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\Pathfinding.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding.cs",
               "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\Pathfinding.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pathfinding.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAewF4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T11:02:38.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Node.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\Node.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Node.cs",
@@ -83,23 +133,25 @@
               "RelativeToolTip": "Assets\\Scripts\\Node.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T10:21:53.769Z"
+              "WhenOpened": "2025-08-22T10:21:53.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "GridManager.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\GridManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GridManager.cs",
               "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\GridManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GridManager.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T09:32:21.675Z"
+              "WhenOpened": "2025-08-22T09:32:21.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ObstacleManager.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\ObstacleManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleManager.cs",
@@ -107,11 +159,12 @@
               "RelativeToolTip": "Assets\\Scripts\\ObstacleManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T13:52:14.384Z"
+              "WhenOpened": "2025-08-21T13:52:14.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ObstaclePlacerTool.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Editor\\ObstaclePlacerTool.cs",
               "RelativeDocumentMoniker": "Assets\\Editor\\ObstaclePlacerTool.cs",
@@ -119,11 +172,12 @@
               "RelativeToolTip": "Assets\\Editor\\ObstaclePlacerTool.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T21:55:47.689Z"
+              "WhenOpened": "2025-08-20T21:55:47.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ObstacleData.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\ObstacleData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleData.cs",
@@ -131,11 +185,12 @@
               "RelativeToolTip": "Assets\\Scripts\\ObstacleData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T14:54:50.816Z"
+              "WhenOpened": "2025-08-20T14:54:50.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "CubeInfo.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\CubeInfo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CubeInfo.cs",
@@ -143,19 +198,21 @@
               "RelativeToolTip": "Assets\\Scripts\\CubeInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:41:14.576Z"
+              "WhenOpened": "2025-08-20T07:41:14.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "RaycastManager.cs",
               "DocumentMoniker": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\RaycastManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RaycastManager.cs",
               "ToolTip": "P:\\Black March Studios\\Crimson Tactics 3D Assignment\\Crimson Tactics 3D Assignment\\Assets\\Scripts\\RaycastManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\RaycastManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-23T11:45:55.932Z"
+              "WhenOpened": "2023-12-23T11:45:55.932Z",
+              "EditorCaption": ""
             }
           ]
         }
